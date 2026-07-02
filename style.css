@@ -7,17 +7,23 @@ color: black; /* cor da fonte*/
 }
 
 main{
+
     background-color: rgb(121, 217, 255); /* cor de fundo
- do cabeçalho*/
+ do texto principal*/
 color: black; /* cor da fonte*/
+text-align: center;
+max-width: 800px;
+margin:0 auto ;
 }
 
 
- footer{background-color: rgb(29, 159, 247); /* cor de fundo
- do cabeçalho*/
-color: black; /* cor da fonte*/
-}
+ footer{
 
+    background-color: rgb(29, 159, 247); /* cor de fundo
+ do texto rodapé*/
+color: black; /* cor da fonte*/
+
+}
 
 
 
