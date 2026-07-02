@@ -12,8 +12,8 @@ main{
  do texto principal*/
 color: black; /* cor da fonte*/
 text-align: center;
-max-width: 800px;
-margin:0 auto ;
+max-width: 800px; /* alinha o tx ao centro*/
+margin:0 auto ; /* matrgens*/
 }
 
 
