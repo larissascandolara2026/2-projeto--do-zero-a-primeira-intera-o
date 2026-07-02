@@ -1,4 +1,30 @@
+header{
+
+background-color: ghostwhite; /* cor de fundo
+ do cabeçalho*/
+color: black; /* cor da fonte*/
+
+}
+
+main{
+    background-color: rgb(121, 217, 255); /* cor de fundo
+ do cabeçalho*/
+color: black; /* cor da fonte*/
+}
+
+
+ footer{background-color: rgb(29, 159, 247); /* cor de fundo
+ do cabeçalho*/
+color: black; /* cor da fonte*/
+}
+
+
+
+
+
+
+
 body{
-    background-color: lightskyblue; <!-- cor de fundo-->
+    background-color: lightskyblue; 
 
 }
