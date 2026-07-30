@@ -7,7 +7,7 @@ text-align: center;/* alinha o tx ao centro*/
 max-width: 800px;
 margin:0 auto ; /* margens*/
 padding: 16px; /* espaçamento interno*/
-
+border: 5px solid pink;
 
 
 }
