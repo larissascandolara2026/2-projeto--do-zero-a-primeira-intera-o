@@ -1,4 +1,4 @@
-header{ /* cabeçalho*/
+header{  /* cabeçalho*/
 
 background-color: rgb(255, 199, 243); /* cor de fundo
  do cabeçalho*/
@@ -10,20 +10,25 @@ padding: 16px; /* espaçamento interno*/
 border: 5px solid black;/* borda*/
 
 
+
+
 }
 
-main{
+main{ /* texto principal*/
 
     background-color: rgb(250, 117, 210); /* cor de fundo
  do texto principal*/
 color: black; /* cor da fonte*/
 text-align: center;/* alinha o tx ao centro*/
 max-width: 800px; 
-margin:0 auto ; /* margens*/
+margin:0 auto ; 
+
 }
 
 
- footer{
+
+
+ footer{ /* rodapé*/
 
     background-color: rgb(1, 161, 182); /* cor de fundo
  do texto rodapé*/
