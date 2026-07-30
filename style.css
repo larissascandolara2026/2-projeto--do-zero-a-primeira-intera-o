@@ -1,41 +1,51 @@
-header{  /* cabeçalho*/
+header {
+   /* cabeçalho*/
 
-background-color: rgb(255, 199, 243); /* cor de fundo
+   background-color: rgb(255, 199, 243);
+   /* cor de fundo
  do cabeçalho*/
-color: black; /* cor da fonte*/
-text-align: center;/* alinha o tx ao centro*/
-max-width: 800px;
-margin:0 auto ; /* margens*/
-padding: 16px; /* espaçamento interno*/
-border: 5px solid black;/* borda*/
+   color: black;
+   /* cor da fonte*/
+   text-align: center;
+   /* alinha o tx ao centro*/
+   max-width: 800px;
+   margin: 0 auto;
+   /* margens*/
+   padding: 16px;
+   /* espaçamento interno*/
+   border: 5px solid black;
+   /* borda*/
 
 
 
 
 }
 
-main{ /* texto principal*/
+main {
+   /* texto principal*/
 
-    background-color: rgb(250, 117, 210); /* cor de fundo
+   background-color: rgb(250, 117, 210);
+   /* cor de fundo
  do texto principal*/
-color: black; /* cor da fonte*/
-text-align: center;/* alinha o tx ao centro*/
-max-width: 800px; 
-margin:0 auto ; 
+   color: black;
+   /* cor da fonte*/
+   text-align: center;
+   /* alinha o tx ao centro*/
+   max-width: 800px;
+   margin: 0 auto;
 
 }
 
 
 
 
- footer{ /* rodapé*/
+footer {
+   /* rodapé*/
 
-    background-color: rgb(1, 161, 182); /* cor de fundo
+   background-color: rgb(1, 161, 182);
+   /* cor de fundo
  do texto rodapé*/
-color: black; /* cor da fonte*/
+   color: black;
+   /* cor da fonte*/
 
 }
-
-
-
-
