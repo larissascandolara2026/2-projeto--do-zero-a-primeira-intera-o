@@ -42,10 +42,12 @@ main {
 footer {
    /* rodapé*/
 
-   background-color: rgb(1, 161, 182);
+   background-color: rgb(255, 112, 248);
    /* cor de fundo
  do texto rodapé*/
    color: black;
    /* cor da fonte*/
 
+
+   
 }
