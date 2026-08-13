@@ -48,7 +48,7 @@ main {
 footer {
    /* rodapé*/
 
-   background-color: rgb(255, 112, 248);
+   background-color: #792374;
    /* cor de fundo
  do texto rodapé*/
    color: black;
@@ -60,8 +60,8 @@ footer {
 img{  /*imagem*/
 
 
-width: 80px;  /*largura*/
-height: 80px; /*altura*/
+width: 40px;  /*largura*/
+height: 40px; /*altura*/
 
 
 }
