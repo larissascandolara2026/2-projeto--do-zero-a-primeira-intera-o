@@ -35,7 +35,8 @@ main {
    padding: 16px; /*espaçamento interno*/
    display: flex;/*habilita o uso de flex box */
   flex-direction: row ; /*orienta os lementos na horizontal, 1,2,3*/
-
+   border: 5px solid black;
+   /* borda*/
 
 }
 
@@ -62,9 +63,7 @@ height: 80px; /*altura*/
 
 }
 
-div p {
+.artigo-autor {
 font-weight: bold;
-
-
 
 }
