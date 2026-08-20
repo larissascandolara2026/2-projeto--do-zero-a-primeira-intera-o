@@ -47,13 +47,13 @@
 
 <script>
 
-    const botao= document.querySelector("button"); //cria uma variavel chamada botão selecionandon a tag "button"
+    const botao=document.querySelector("button"); //cria uma variavel chamada botão selecionandon a tag "button"
     botao.addEventListener("click",botaoClicado); // verifica se o botão foi clicado
     
          function botaoClicado() { // cria uma funçao
                console.log("Fui clicado"); //mostra se o botão foi clicado
                let texto=document.querySelector("span")// cria uma variavelchamada 'texto' selecionando a tag span
-               texto=textContent++;//muda o valor do texto adicionando de uma unidade
+               texto.textContent++;//muda o valor do texto adicionando de uma unidade
            
          }
 
@@ -61,4 +61,4 @@
 </script>
 
 
-</html>
+</html>2-
