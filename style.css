@@ -44,15 +44,12 @@ main {
 
 
 
-footer {
-   /* rodapé*/
+footer {   /* rodapé*/
 
-   background-color: #792374;
-   /* cor de fundo do texto rodapé*/
-
-   color: black;
+   background-color: #792374; /* cor de fundo do texto rodapé*/
+   color: black; /*cor da fonte*/             
   max-width: 800px; /*largura max*/
-
+   display: flex;/*habilita o uso de flex box */
 }
 
 
