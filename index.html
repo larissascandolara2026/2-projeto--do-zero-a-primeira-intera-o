@@ -22,11 +22,12 @@
 
 
     <main>
+
         <img src="imagem livro.png" alt="imagem de um livro">
 <div>
-     <h2> Meu primeiro post </h2>
+        <h2> Meu primeiro post </h2>
         <p class="artigo-autor"> Por: Larissa Gava </p>
-        <p> Seja bem-vindo ao meu canto na internet!<!-- 2° paragrafo-->
+        <p> Seja bem-vindo ao meu canto na internet! <!-- 2° paragrafo-->
              Aqui a gente conversa sobre 
              tudo.</p>
 
@@ -42,11 +43,18 @@
 <footer> Rodapé </footer>
 
 
-
-
 </body>
+
 <script>
-    const botao= document.querySelector("button");
+
+    const botao= document.querySelector("button"); //cria uma variavel chamada botão selecionandon a tag "button"
+    botao.addEventListener("click",botaoClicado); // verifica se o botão foi clicado
+    
+         function botaoClicado() {
+               console.log(" Fui clicado")
+         }
+
+
 </script>
 
 
